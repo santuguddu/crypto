@@ -57,8 +57,8 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Real-time-Crypto-Price-Tracker.git
-cd Real-time-Crypto-Price-Tracker
+git clone https://github.com/santuguddu/crypto.git
+cd Real-time-Crypto-Price-Tracker-main
 ```
 
 ### 2. Install dependencies
@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-Then open [http://localhost:3000](http://localhost:3000) in your browser.
+then open your local host
 
 ## 📡 CoinGecko API
 
